@@ -61,6 +61,9 @@ While not required, you are more than welcome to add any additional functionalit
 ### Installing the Deliverable
 The deliverable should be easily installed by following an updated version of this README document in your repository.  To provide a standard place to add your project specific install notes, we have provided a section below titled "Candidate Install".
 
+### Submitting Your Project
+Once you have completed your project, please email the link to the GitHub repository to jason@smarterservices.com.
+
 # Connecting to the SmarterMeasure API
 For this project we have created a mock API that mimics the actual SmarterMeasure API.  This is where you will be getting the data to populate your UI. Here are a few things to note about this API:
 
